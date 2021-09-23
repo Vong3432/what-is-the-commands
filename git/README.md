@@ -96,7 +96,7 @@ git branch
 
 #### View all local & remote branches
 
-This command will show all local branches of project repo.
+This command will show all local and remote branches of project repo.
 
 ```
 git branch -a
