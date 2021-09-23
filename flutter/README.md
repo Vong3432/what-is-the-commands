@@ -30,7 +30,7 @@ flutter run
 
 #### Start flutter project (w/ detail info)
 
-This command will run Flutter app with extra detail message. By using this command, most of the time you can view more detailed error message during in development.
+This command will run Flutter app with extra detail message. By using this command, most of the time you can view more detailed error message during the development process.
 
 ```
 flutter run -v
