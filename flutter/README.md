@@ -4,8 +4,6 @@ Just a repo that stores frequently used commands from flutter
 
 ## 🚧 Development
 
----
-
 ##### Check flutter health
 
 This command will check the status of installed Flutter.
@@ -47,8 +45,6 @@ flutter clean
 ```
 
 ## 📦 Packages & Dependencies
-
----
 
 ##### Install package
 

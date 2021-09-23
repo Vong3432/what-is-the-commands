@@ -2,9 +2,7 @@
 
 Just a repo that stores frequently used commands from << **title** >>
 
-## 🚧 << Command category >>
-
----
+## << icon >> << Command category >>
 
 ##### << Command info >>
 
