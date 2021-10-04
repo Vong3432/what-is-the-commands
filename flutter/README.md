@@ -44,6 +44,20 @@ This command will clean your Flutter project cache. Usually you are gonna run th
 flutter clean
 ```
 
+#### Run build runner
+
+This command will generate files using Dart code.
+```
+flutter pub run build_runner build              
+```
+
+#### Clear build runner conflicts 
+
+This command will remove all conflicts from previous build data.
+```
+flutter packages pub run build_runner build --delete-conflicting-outputs          
+```
+
 ## 📦 Packages & Dependencies
 
 #### Install package
