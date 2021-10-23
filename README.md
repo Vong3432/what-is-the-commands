@@ -2,6 +2,9 @@
 
 Just a repo that stores frequently used commands from different languages and frameworks.
 
+## 💻 Download desktop app 
+https://github.com/Vong3432/witc-desktop-app
+
 ## 🌎 Open-source
 
 This repo is open for everyone to maintain it. Feel free to make PR request for fix or your new commands in this repo.
