@@ -136,7 +136,7 @@ git revert <<commit_hash>>
 
 #### Squash X commits into 1
 
-This command will let you go back X commits by resetting git index to before the commits you want to squash. Use `--soft` so that git only resets the index and doesn't touch your working directory. Then create a commit as usual. [source from stackoverflow]("https://stackoverflow.com/a/50302458/10868150")
+This command will let you go back X commits by resetting git index to before the commits you want to squash. Use `--soft` so that git only resets the index and doesn't touch your working directory. Then create a commit as usual. [source from stackoverflow](https://stackoverflow.com/a/50302458/10868150)
 
 ```
 git reset --soft HEAD~<<X>> // go back X commits
