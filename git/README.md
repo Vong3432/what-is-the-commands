@@ -144,3 +144,21 @@ git add --all // Add the changes
 git commit 
 git push --force 
 ```
+
+## 🖥 Remote
+
+#### Get remote detail
+
+This command will show existing remotes of the project.
+
+```
+git remote -v
+```
+
+#### Update origin's remote url
+
+This command will update project's origin remotes with new remote url.
+
+```
+git remote set-url origin <<new_remote_url>>
+```

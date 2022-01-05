@@ -36,6 +36,14 @@ This command will run Flutter app with extra detail message. By using this comma
 flutter run -v
 ```
 
+#### Release app to production build
+
+This command will compile your Flutter app into release mode. Usually you will run this when you want to know how your apps work without development mode before deploying it to App Store or Google Playstore.
+
+```
+flutter run --release
+```
+
 #### Clean build
 
 This command will clean your Flutter project cache. Usually you are gonna run this when your Flutter app is not working correctly. Once you run this command, your IDE should have bunch of errors, because everything is deleted. But this can be fixed once you [start](#start-flutter-project) your project again.
